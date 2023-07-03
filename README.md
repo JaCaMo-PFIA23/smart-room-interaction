@@ -1,2 +1,3 @@
-# smart-room-interaction
-JaCaMo Interaction on an Smart Room
+# JaCaMo Interaction
+
+Smart Room interaction
