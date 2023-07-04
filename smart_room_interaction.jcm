@@ -5,7 +5,7 @@ mas smart_room_interaction {
              preferred("watching", high)
              preferred("cooking", high)
              preferred("sport", medium)
-             activity("sport")
+             activity("reading")
     join: room
   }
 
@@ -14,7 +14,7 @@ mas smart_room_interaction {
              preferred("watching", high)
              preferred("cooking", medium)
              preferred("sport", low)
-             activity("sport")
+             activity("cooking")
     join: room
   }
 
